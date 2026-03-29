@@ -1,2 +1,2 @@
 # DifTransNet
-The code will be available once accepted.
+The code will be available once the paper is accepted.
